@@ -12,9 +12,9 @@ To move the files between virtual machine.
 •	You can create a shared drive, either a virtual disk or a raw partition, and mount the drive in each of the virtual machines.
 ## Procedure:
 ### How to Enable File sharing in VirtualBox. 
-### Step 1. Install Guest Additions on the Guest machine. 
+### Step 1: Install Guest Additions on the Guest machine. 
 
-### Step 2. Configure File Sharing on VirtualBox. 
+### Step 2: Configure File Sharing on VirtualBox. 
  
 
 1. Start the Virtuabox Guest Machine (OS). 
@@ -39,7 +39,7 @@ C.Right click at "VBoxWindowsAdditions" application and from the pop-up menu, ch
 
 4. When the setup is completed, choose Finish and restart the Virtuabox guest machine.
    
-### Step 3. Setup File Sharing on VirtualBox Guest Machine.
+### Step 3: Setup File Sharing on VirtualBox Guest Machine.
 
 1. From VirtualBox menu click Devices and choose Shared Folders -> Shared Folder Settings.
 
