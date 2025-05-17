@@ -13,9 +13,10 @@ To move the files between virtual machine.
 ## Procedure:
 ### How to Enable File sharing in VirtualBox. 
 Step 1. Install Guest Additions on the Guest machine. 
+
 Step 2. Configure File Sharing on VirtualBox. 
  
-Step 1. Install Guest Additions on the Guest machine. 
+
 1. Start the Virtuabox Guest Machine (OS). 
 2. From Oracle's VM VirtualBox main menu, select Devices > Install Guest Additions *
 
