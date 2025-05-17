@@ -21,6 +21,7 @@ Step 2. Configure File Sharing on VirtualBox.
 2. From Oracle's VM VirtualBox main menu, select Devices > Install Guest Additions *
 
 a. Open Windows Explorer
+
 b. Double click at the "CD Drive (X:) VirtualBox Guest additions" to explore its contents.
 		  
 ![image](https://github.com/user-attachments/assets/28840336-2711-43b4-96b0-acb77e141a22)
@@ -37,7 +38,9 @@ C.Right click at "VBoxWindowsAdditions" application and from the pop-up menu, ch
 
 
 4. When the setup is completed, choose Finish and restart the Virtuabox guest machine.
+   
 Step 2. Setup File Sharing on VirtualBox Guest Machine.
+
 1. From VirtualBox menu click Devices and choose Shared Folders -> Shared Folder Settings.
 
 ![image](https://github.com/user-attachments/assets/fee92d3c-64e0-4577-95f6-a03eb5903cdc)
